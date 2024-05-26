@@ -1,4 +1,3 @@
-// app.js
 document.addEventListener('DOMContentLoaded', () => {
     const passwordInput = document.getElementById('password');
     const lengthInput = document.getElementById('length');
